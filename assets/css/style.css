@@ -177,7 +177,6 @@ header.scrolled .nav{padding:16px 0;}
 .proj-tag{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:#BFD8F5;margin-bottom:10px;}
 .proj-info h3{color:var(--white);font-size:22px;}
 .proj-meta{color:#D7E6F7;font-size:13.5px;margin-top:8px;font-family:"Manrope",sans-serif;}
-.proj-cta{text-align:center;margin-top:56px;}
 
 /* ===== INDUSTRIES ===== */
 .ind-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:2px;background:var(--border);}
